@@ -9,4 +9,4 @@ notasyon_alistirma_izli.pdf: izli harfler olan tahta, PDF.
 
 denden.py: izli harfleri eklemek için kullandığım Python script'i.
 
-Tahta kenarındaki harfleri "Comic Sans MS" (Microsoft) ile, harf izleri de "Trace" (Kids Fonts; https://www.fontspace.com/trace-font-f3625 adresinden indirilebilir) ile yazdım.
+Tahta kenarındaki harfleri "Comic Sans MS" (Microsoft) ile, harf izlerini de "Trace" (Kids Fonts; https://www.fontspace.com/trace-font-f3625 adresinden indirilebilir) ile yazdım.
